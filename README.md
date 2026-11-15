@@ -1,5 +1,13 @@
 # NAT-configuration-Static-Dynamic-PAT
 
+## Static NAT Configuration
+
+<div>
+ <img width="1102" height="675" alt="image" src="https://github.com/user-attachments/assets/86fecbf0-67f6-474d-9b6c-ff325ac722cc" />
+</div>
+
+## STATIC - DYNAMIC NAT CONFIGURATION
+
  - IP Addressing
 
 - Public Network: 150.1.0.0/24
